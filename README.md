@@ -13,8 +13,9 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-Open [https://tuko-app.herokuapp.com/](https://tuko-app.herokuapp.com/) to view finish project.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
+.\
+Open [https://tuko-app.herokuapp.com/](https://tuko-app.herokuapp.com/) to view finished project💯.
 
 <p>Below are some shots from the completed project👇🏽</p>
 <br/>

@@ -14,6 +14,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://tuko-app.herokuapp.com/](https://tuko-app.herokuapp.com/) to view finish project.
 
 <p>Below are some shots from the completed project👇🏽</p>
 <br/>
